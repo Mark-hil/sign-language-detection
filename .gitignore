@@ -1,0 +1,7 @@
+# sign-language-detection
+.venv 
+ASL_Alphabet_Dataset
+*.pickle
+*.p
+*.h5
+data/
