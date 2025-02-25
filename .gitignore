@@ -5,3 +5,6 @@ ASL_Alphabet_Dataset
 *.p
 *.h5
 data/
+.gitignore
+.gitattributes
+README.md
